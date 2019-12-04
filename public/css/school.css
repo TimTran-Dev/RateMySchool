@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+.tab {
+  background-color: #ffffff99;
+  color: black;
+}
+.gtco-widget{
+  margin-left: 8%;
+}
+.gtco-container{
+  margin: 0;
+}
+.defaultSchool {
+  height: 40vh;
+  width: 45%;
+}
+#myImg{
+  float: right;
+  width: 15%;
+  height: 22vh;
+  margin-right: 1.4%;
+  margin-bottom: 3%;
+}
+.row-mt-15em{
+  margin-top: 5em !important;
+}

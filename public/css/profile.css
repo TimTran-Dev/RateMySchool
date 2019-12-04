@@ -1,0 +1,80 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+}
+#gtco-header {
+  height: 100vh;
+}
+
+.messages {
+  padding: 10px;
+  margin-top: 2%;
+  color: white;
+  float: left;
+  width: 50%;
+  background-color: #09c6ab;
+}
+.messages li {
+  padding-left: 2%;
+}
+#upload{
+  width: 27%;
+  font-size: 0.9em;
+  text-align: center;
+  color: white;
+}
+#myImg{
+  margin-bottom: 2%;
+  float: left;
+}
+#pic{
+  display: inline !important;
+  margin: 0;
+  width: 18%;
+  float: left;
+  margin-right: 5%;
+  font-size: 0.9em;
+  padding: 1%;
+  padding-left: 1%;
+}
+#uiPic {
+  margin-top: 0 !important;
+}
+.picUpload {
+  display: flex;
+}
+.form {
+  color: white;
+  float: left;
+  width: 53%;
+  font-size: 1.4rem;
+}
+.margin {
+  float: left;
+  width: 100%;
+}
+#fullname {
+  background-color: white;
+}
+#background {
+  margin-top: 10%;
+  background-color: #d4d1d1db;
+}
+.searchForm {
+  width: 40%;
+  float: right;
+}
+.information {
+  float: left
+}
+li {
+  list-style: none;
+}
+.form span {
+  margin-left: 1%;
+}
+.schoolLookUp{
+  margin-top: 4%;
+}

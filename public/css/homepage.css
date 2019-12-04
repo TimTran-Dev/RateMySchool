@@ -1,0 +1,6 @@
+* {
+  box-sizing: border-box;
+}
+.col-md-4 {
+  width: 41% !important;
+}
